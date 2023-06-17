@@ -32,6 +32,9 @@ while True:
             player_score+=1
     elif player=='E':
         print("Final Scores:")
+assduagfu充当复苏的、
+康扽是三等分
+三弟很少我欸o
         print(f"CPU:{cpu_score}")
         print(f"Plaer:{player_score}")
         break
